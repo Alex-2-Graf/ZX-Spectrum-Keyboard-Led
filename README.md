@@ -1,10 +1,15 @@
 # ZX-Spectrum-Keyboard-Led
+  
+ Custom 40-key ZX Spectrum keyboard with built-in stereo FHT spectrum analyzer, dynamic key/underglow LED backlight, and DS1307 RTC clock (ATmega328P + MAX7219).  
+   
 ---
- Custom 40-key ZX Spectrum keyboard with built-in stereo FHT spectrum analyzer, dynamic key/underglow LED backlight, and DS1307 RTC clock (ATmega328P + MAX7219).
+  
+Кастомная клавиатура (40 клавиш) для ZX Spectrum со встроенным стерео-спектроанализатором, динамической подсветкой клавиш, неоном и часами DS1307.  
+  
 ---
-Кастомная клавиатура (40 клавиш) для ZX Spectrum со встроенным стерео-спектроанализатором, динамической подсветкой клавиш, неоном и часами DS1307.
----
+  
 > [English](README.en.md) | [Русский](README.md)
+  
 ---
   
 # 🎹 ZX-Spectrum-Keyboard-Led (PentoGraf)
